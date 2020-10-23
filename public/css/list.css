@@ -1,0 +1,11 @@
+.booking-table {
+    border:  2px solid #444444;
+    padding: 1em;
+    border-collapse: collapse;
+}
+
+.booking-table th,
+.booking-table td {
+    border:  2px dashed #444444;
+    padding: .9em;
+}
